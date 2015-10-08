@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Up In Smoke</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="how_old">How old (in years) do you want to live to be?</string>
+    <string name="go">go!</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="plusOneCig">+1 cigarette</string>
+</resources>
